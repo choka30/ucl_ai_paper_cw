@@ -1,0 +1,30 @@
+[I 2025-12-10 21:17:02,473] Trial 0 finished with value: 2.290718688396737 and parameters: {'depth': 3, 'filter_base': 16, 'use_batchnorm': True, 'dropout_rate': 0.0, 'lr': 0.003967605077052989, 'optimizer': 'RMSprop'}. Best is trial 0 with value: 2.290718688396737.
+[I 2025-12-10 21:17:16,577] Trial 1 finished with value: 2.306271598674357 and parameters: {'depth': 2, 'filter_base': 16, 'use_batchnorm': False, 'dropout_rate': 0.1, 'lr': 0.00037520558551242813, 'optimizer': 'Adam'}. Best is trial 1 with value: 2.306271598674357.
+[I 2025-12-10 21:20:39,277] Trial 2 finished with value: 2.393406456511002 and parameters: {'depth': 4, 'filter_base': 64, 'use_batchnorm': False, 'dropout_rate': 0.1, 'lr': 0.0003489018845491386, 'optimizer': 'Adam'}. Best is trial 2 with value: 2.393406456511002.
+[I 2025-12-10 21:22:09,083] Trial 3 finished with value: 2.174988972954452 and parameters: {'depth': 4, 'filter_base': 64, 'use_batchnorm': True, 'dropout_rate': 0.1, 'lr': 1.9634341572933304e-05, 'optimizer': 'Adam'}. Best is trial 2 with value: 2.393406456511002.
+[I 2025-12-10 21:24:31,556] Trial 4 finished with value: 2.4198264880105853 and parameters: {'depth': 2, 'filter_base': 64, 'use_batchnorm': False, 'dropout_rate': 0.1, 'lr': 0.00036324869566766035, 'optimizer': 'Adam'}. Best is trial 4 with value: 2.4198264880105853.
+[I 2025-12-10 21:24:52,921] Trial 5 pruned. 
+[I 2025-12-10 21:24:56,914] Trial 6 pruned. 
+[I 2025-12-10 21:25:13,052] Trial 7 pruned. 
+[I 2025-12-10 21:25:15,677] Trial 8 pruned. 
+[I 2025-12-10 21:25:21,790] Trial 9 pruned. 
+[I 2025-12-10 21:25:31,825] Trial 10 pruned. 
+[I 2025-12-10 21:27:04,856] Trial 11 pruned. 
+[I 2025-12-10 21:27:59,997] Trial 12 finished with value: 2.3417399405734614 and parameters: {'depth': 3, 'filter_base': 64, 'use_batchnorm': False, 'dropout_rate': 0.1, 'lr': 0.00019113354590616615, 'optimizer': 'Adam'}. Best is trial 4 with value: 2.4198264880105853.
+[I 2025-12-10 21:28:49,874] Trial 13 finished with value: 2.2961460115620866 and parameters: {'depth': 4, 'filter_base': 64, 'use_batchnorm': False, 'dropout_rate': 0.2, 'lr': 0.0006717715238348051, 'optimizer': 'Adam'}. Best is trial 4 with value: 2.4198264880105853.
+[I 2025-12-10 21:29:00,169] Trial 14 pruned. 
+[I 2025-12-10 21:29:19,220] Trial 15 pruned. 
+[I 2025-12-10 21:30:18,331] Trial 16 pruned. 
+[I 2025-12-10 21:30:34,504] Trial 17 pruned. 
+[I 2025-12-10 21:30:48,192] Trial 18 pruned. 
+[I 2025-12-10 21:31:09,629] Trial 19 pruned. 
+[I 2025-12-10 21:31:18,153] Trial 20 pruned. 
+[I 2025-12-10 21:31:29,124] Trial 21 pruned. 
+[I 2025-12-10 21:31:45,025] Trial 22 pruned. 
+[I 2025-12-10 21:34:08,419] Trial 23 pruned. 
+[I 2025-12-10 21:34:17,631] Trial 24 pruned. 
+[I 2025-12-10 21:35:41,150] Trial 25 pruned. 
+[I 2025-12-10 21:37:15,363] Trial 26 finished with value: 2.3531688860384747 and parameters: {'depth': 4, 'filter_base': 64, 'use_batchnorm': True, 'dropout_rate': 0.1, 'lr': 0.0005776953009893719, 'optimizer': 'RMSprop'}. Best is trial 4 with value: 2.4198264880105853.
+[I 2025-12-10 21:38:53,698] Trial 27 pruned. 
+[I 2025-12-10 21:39:04,849] Trial 28 finished with value: 2.250404965598136 and parameters: {'depth': 4, 'filter_base': 16, 'use_batchnorm': True, 'dropout_rate': 0.0, 'lr': 0.0006119174451922499, 'optimizer': 'RMSprop'}. Best is trial 4 with value: 2.4198264880105853.
+[I 2025-12-10 21:39:13,002] Trial 29 pruned. 
